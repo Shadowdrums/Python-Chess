@@ -4,7 +4,7 @@ import chess.engine
 class ChessGame:
     def __init__(self):
         self.board = chess.Board()
-        self.engine_path = "/home/shadowkali/Desktop/py-chess/stockfish/stockfish-ubuntu-x86-64-modern"
+        self.engine_path = "/home/username/Desktop/py-chess/stockfish/stockfish-ubuntu-x86-64-modern"
 
     def display_board(self):
         UNICODE_PIECES = {
