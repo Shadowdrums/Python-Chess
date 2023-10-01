@@ -107,4 +107,20 @@ If all is well, this should output the version number of the `python-chess` libr
 
 ---
 
+## 🖥️ Development & Compatibility
+
+This chess game was initially developed in a Kali Linux virtual machine, but its compatibility extends to both Windows and Linux systems. Throughout the development process, extensive tests were conducted on these platforms to ensure a seamless user experience.
+
+### 🎮 Game Mode:
+
+The game is designed for a Player vs Computer mode, with the computer opponent powered by the Stockfish chess engine. This offers a challenging gameplay experience for players of various skill levels.
+
+### 🚀 Terminal-based Gameplay:
+
+One of the unique features of this game is its terminal-based interface. There's no need for fancy graphics or additional software — the entire game is playable directly from your terminal or command prompt, offering a nostalgic and minimalist chess experience.
+
+---
+
+We hope you enjoy playing and challenging yourself against the computer opponent. Feedback and contributions are always welcome!
+
 **Happy coding and enjoy your chess games!** 🎉
