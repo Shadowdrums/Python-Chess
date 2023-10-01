@@ -71,7 +71,7 @@ You can download Stockfish directly from the [official website](https://stockfis
 Remember: To benefit from Stockfish's capabilities within the game, ensure it's correctly set up and linked in the game's settings.
 
 In py-chess.py you need to change the file path to the correct file path to stockfish-ubuntu-x86-64-modern. The current stockfish 
-files that come with this are for linux you'll need to windows version for windows os and change file path accordingly. 
+files that come with this are for linux you'll need the windows version for windows os and change file path accordingly. 
 
 ### 🐧 Linux:
 
