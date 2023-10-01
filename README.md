@@ -52,6 +52,25 @@ Once `pip` is in your arsenal, install the `python-chess` library:
 
 pip install python-chess
 
+## 🛠️ Stockfish Integration
+
+Our chess game harnesses the power of the [Stockfish](https://stockfishchess.org/) engine, one of the strongest open-source chess engines in the world.
+
+### Integration Details:
+
+- Stockfish provides the bot functionality, allowing players to compete against a powerful AI opponent.
+- For optimal performance, ensure you have the latest version of Stockfish compatible with your system (available for both Windows and Linux).
+- Place the Stockfish binary in the appropriate directory, and update the game script to point to its location.
+
+### 📦 Download Stockfish:
+
+You can download Stockfish directly from the [official website](https://stockfishchess.org/download/). Choose the version that suits your operating system and architecture.
+
+---
+
+Remember: To benefit from Stockfish's capabilities within the game, ensure it's correctly set up and linked in the game's settings.
+
+In py-chess.py you need to change the file path to the correct file path to stockfish-ubuntu-x86-64-modern.
 
 ### 🐧 Linux:
 
